@@ -1,7 +1,7 @@
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
-## NAME :S.L.NARASIMHA REDDY
-## REG NO:212223040214
+## NAME :K.SANTHOSH
+## REG NO:212224050041
 ## 🎯 Aim
 To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
 
